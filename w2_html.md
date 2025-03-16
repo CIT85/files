@@ -17,7 +17,7 @@ In the video Dave will change his folder for each lesson, but for our work we wi
     - I do **NOT** recommend installing the Prettier extension in VSCODE. 
     - I do recommend having the auto-save set in VSCODE.
     - VSCODE icon and Github Theme are optional.
-    - Live Server is required recommended.
+    - Live Server extension is required.
         - **COMMIT MESSAGE - "setup and basic tag"**
 
 ## Chapter - 1  (12:44 to 19:58) 
