@@ -37,6 +37,7 @@ In the video Dave will change his folder for each lesson, but for our work we wi
 # Week 2 Code Along Chapter 3, 4 and 5
 
 ## Chapter - 3 (28:52 to 49:36)
+* In your w2_html folder create a new file named README.md, add a h1 (#) My Notes
 * Code along with Dave to learn about text content
     - Give that keyboard shortcut a try!  
     - I noticed mine did not change the h2 ending tag, I found a fix here: 
