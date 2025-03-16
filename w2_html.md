@@ -94,3 +94,10 @@ Because you have worked hard to get to this point:
 ## Congratulations
 You have finished your first code along for our class, push your code to github and give your commit history URL for the w2_html folder to show you have completed this work. 
 
+This is how I will grade your work:
+1. Did you provide the correct URL for w2_html folder commits = 5 points.
+2. Did you do all the commits required for this work = 40 points
+3. Did your commit have all the code along work =  40 points
+4. Was index.html free of validation errors  = 15 points
+- Work submitted after the due date will be reduced by 25 points. If you completed all the requirements above, but submitted after the due date you will get 75 points (100 - 25) on this work. 
+
