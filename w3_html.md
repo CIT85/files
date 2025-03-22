@@ -27,7 +27,8 @@ In Week 3 attendance, I demonstrated how to set up the `w3_html` and the `img` f
    - Add a `# Images` heading.
    - Include key notes on image practices discussed in the video.
 
-4. **COMMIT MESSAGE:**  
+4. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"adding 2 images and lazy loading"`
 
 5. **Continue coding:**
@@ -41,7 +42,8 @@ In Week 3 attendance, I demonstrated how to set up the `w3_html` and the `img` f
 
    - Add information about `<figure>` and `<figcaption>` usage.
 
-7. **COMMIT MESSAGE:**  
+7. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"figure, figcaption, code"`
 
 ---
@@ -52,7 +54,8 @@ In Week 3 attendance, I demonstrated how to set up the `w3_html` and the `img` f
 
    - Review semantic tags like `<header>`, `<main>`, and `<footer>`.
 
-2. **COMMIT MESSAGE:**  
+2. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**    
    `"header, main, footer"`
 
 3. **Continue learning new semantic tags:**
@@ -60,7 +63,8 @@ In Week 3 attendance, I demonstrated how to set up the `w3_html` and the `img` f
    - Work with `<article>`, `<aside>`, `<summary>`, `<details>`, `<mark>`, and `<time>`.
    - Observe how `<p>` interacts with `<details>`.
 
-4. **COMMIT MESSAGE:**  
+4. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"more semantic tags"`
 
 5. **Extra tools:**
@@ -75,7 +79,8 @@ In Week 3 attendance, I demonstrated how to set up the `w3_html` and the `img` f
    - Summarize Dave's guidelines for using semantic elements.
    - Feel free to rewatch or research further.
 
-8. **COMMIT MESSAGE:**  
+8. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"my understanding of semantic usage guidelines"`
 
 ---
@@ -97,7 +102,8 @@ Take a break! You’ve worked hard.
    - Learn how to build tables.
    - Commit after adding basic CSS to the table.
 
-2. **COMMIT MESSAGE:**  
+2. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"tables tags and css"`
 
 3. **Work with DevTools:**
@@ -109,14 +115,13 @@ Take a break! You’ve worked hard.
    - Use `<thead>`, `<tbody>`, and the `scope` attribute.
    - Learn why `scope` is more convenient than `id` references.
 
-5. **Validate your code.**
-
-6. **Update `README.md`:**
+5. **Update `README.md`:**
 
    - Add a `# Tables` heading.
    - Include notes on the table elements and best practices.
 
-7. **COMMIT MESSAGE:**  
+5. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"table headings, row and column spans"`
 
 ---
@@ -128,7 +133,8 @@ Take a break! You’ve worked hard.
    - Add the anchor, article, and heading for the form.
    - Complete the first name input field.
 
-2. **COMMIT MESSAGE:**  
+2. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"first name input on form complete"`
 
 3. **Continue coding:**
@@ -140,7 +146,8 @@ Take a break! You’ve worked hard.
 
    - Add a `# Form Inputs - Part 1` heading with notes.
 
-5. **COMMIT MESSAGE:**  
+5. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"last name, password and phone form inputs complete"`
 
 6. **Add more inputs:**
@@ -151,7 +158,8 @@ Take a break! You’ve worked hard.
 
    - Add a `# Form Inputs - Part 2` heading with notes.
 
-8. **COMMIT MESSAGE:**  
+8. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
    `"decade input and coffee select tag complete"`
 
 9. **Add a new input group:**
@@ -163,7 +171,8 @@ Take a break! You’ve worked hard.
 
     - Add a `# Form Inputs - Fieldset` heading.
 
-11. **COMMIT MESSAGE:**  
+11. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
     `"fieldset for fav food"`
 
 12. **Continue form development:**
@@ -175,7 +184,8 @@ Take a break! You’ve worked hard.
 
     - Add a `# Form Inputs - More Types` heading.
 
-14. **COMMIT MESSAGE:**  
+14. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
     `"radio, checkbox and textarea input types"`
 
 15. **Finalize the form:**
@@ -188,7 +198,8 @@ Take a break! You’ve worked hard.
 
     - Add a `# Form Submission` heading.
 
-17. **COMMIT MESSAGE:**  
+17. Validate your html, complete the git workflow and commit with message:
+   - **COMMIT MESSAGE:**  
     `"submit, reset and post buttons and httpbin output"`
 
 ---
