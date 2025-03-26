@@ -87,7 +87,7 @@ Because you have worked hard to get to this point:
 * Continue coding with Dave and learn about the some of the other types of link you can create.  
 
 * HEADS UP if you have our base folder open here (CIT85SP25) the ```<a href="/">``` will not work as excepted.  This is why I will open the folder (rio-pri) that I am working on to have the folder be the "root" folder. 
-    - or just remove the / and have ```<a href="">``` 
+    - or just remove the / and have ```<a href="">``` and provide where you want the link to take you between the "";
     - Make sure you validate your code and then commit.
 
     * **COMMIT MESSAGE - "download, mail, tel links and other attitudes"**
