@@ -16,9 +16,10 @@
 ### Markdown Note
 
 - Create `README.md` inside `w4_css`
+- Add heading: `# Week 4 - Chp 1 thru 51`
 - Add heading: `## What is cascading`
 - Write your understanding of cascading
-- Write and delete an inline style before committing
+- Code along and only delete an inline style before committing
 
 ✅ **COMMIT MESSAGE**: `"external, internal and inline styles"`
 
@@ -27,7 +28,7 @@
 - Add notes under heading: `## CSS Ruleset` in `README.md`
 - Validate your CSS with W3C validator or extension
 
-✅ **COMMIT MESSAGE**: `"notes on CSS"`
+✅ **COMMIT MESSAGE**: `"ruleset"`
 
 ---
 
