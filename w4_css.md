@@ -11,7 +11,7 @@
   - `index.html` with basic HTML structure
   - `main.css` and link it to your HTML before starting the CSS code-along
 
-✅ **COMMIT MESSAGE**: `"setup for week 3 css done"`
+✅ **COMMIT MESSAGE**: `"setup for week 4 css done"`
 
 ### Markdown Note
 
@@ -71,9 +71,13 @@
 
 ## ⏸️ Break Time – Optional Check-in
 
-- Take a break and submit your GitHub history URL for the w4_css folder and tell me in canvas you are taking a break.
+- How to Take a break 
+  - Complete work up to this point
+  - Make sure you have pushed your code
+  - Submit your GitHub history URL for the w4_css folder 
+  - Tell me in canvas you are taking a break
 - I will review and give you feedback on work completed to-date. 
-- Late submissions allowed until Thursday with a 10% penalty.
+- Late submissions allowed until end-of-day Thursday with a 10% penalty.
 - Reach out if you need help.
 
 ---
