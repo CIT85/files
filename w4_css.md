@@ -1,4 +1,4 @@
-# Code Along Instructions: Chapters 1–7 
+# Code Along Instructions: Chapters 1–5 
 
 📺 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=OXGznpKZ_sA)
 
@@ -42,11 +42,12 @@
 ✅ **COMMIT MESSAGE**: `"how selectors work"`
 
 - Continue with:
-  - Specificity & inheritance
-  - Use Chrome DevTools!
-  - Define DRY (Don't Repeat Yourself)
-  - Why form elements may not inherit styles
-  - `!important` and why to avoid it
+  - Make sure you add notes as you code along
+    - Specificity & inheritance
+    - Use Chrome DevTools!
+    - Define DRY (Don't Repeat Yourself) 
+    - Why form elements may not inherit styles
+    - `!important` and why to avoid it
 
 🔗 [Specificity Calculator](https://specificity.keegan.st/)
 
@@ -115,20 +116,23 @@
 - Code CSS reset
 - Add container class, demonstrate:
   - Longhand and shorthand `margin`
+- Take a few notes on this content
 
 ✅ **COMMIT MESSAGE**: `"long hand for margin"`
 
 - Add:
   - Padding and border (short/longhand)
   - Commit before deleting longhand for border
+- Take a few notes on this content 
 
 ✅ **COMMIT MESSAGE**: `"padding and border notation"`
 
 - Add:
   - Outline and `outline-offset`
   - Circle using `border-radius`
+  - Take a few notes on this content
 
-✅ **COMMIT MESSAGE**: `"border raduis to create cirle"`
+✅ **COMMIT MESSAGE**: `"border radius to create circle"`
 
 ---
 
