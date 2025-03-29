@@ -1,6 +1,6 @@
 # Code Along Instructions: Chapters 1–5 
 
-📺 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=OXGznpKZ_sA)
+📺 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
 
 ---
 
