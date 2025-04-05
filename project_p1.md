@@ -93,6 +93,7 @@ Create `index.html` in the `p1/` folder.
 
 ## 🖼️ Add Images to Your Pages
 
+- Each page needs at least 1 image and the index.html needs at least 3 images.
 - Use **AI tools or other sources** to find relevant images.
 - Place **all images** inside the `img/` folder.
 - Use the following attributes in your `<img>` tags:
