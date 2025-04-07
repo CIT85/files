@@ -6,7 +6,11 @@
 
 ## Chapter 1 (0:00 – 0:14:50)
 
-- Name your folder: `w4_css` (week 4 CSS) in your pri repo.
+- Create your folder: `w4_css` (week 4 CSS) in your pri repo
+```
+├── w3_html (this folder already exist)
+├── w4_css (new folder you need to create)
+```
 - Create:
   - `index.html` with basic HTML structure
   - `main.css` and link it to your HTML before starting the CSS code-along
