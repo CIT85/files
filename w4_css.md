@@ -90,10 +90,10 @@
 
 ## Chapter 4 (0:51:08 – 1:11:15)
 
-- Folder: `w4_css`
-- Create and link `index.html` and `main.css`
+- Inside Folder: `w4_css`
+- Create new  `index.html` and `main.css` include the required link element (tag).
 
-✅ **COMMIT MESSAGE**: `"setup for week 4 css done"`
+✅ **COMMIT MESSAGE**: `"setup for chap 4 css done"`
 
 📚 [MDN: Values and Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
