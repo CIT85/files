@@ -42,7 +42,7 @@ Create `index.html` in the `p1/` folder.
 - HTML5 semantic elements:
   - `header`, `main`, `nav`, `section`, `footer`, `article`
   - Include **either** an ordered or unordered list and a table.
-  - ✅ **Do NOT use `<div>` elements**
+  - ✅ **Do NOT use `<div>` elements** or have `Untitled` in your HTML5 outliner
 
 #### Include at least 3 of the following HTML elements:
 - `<details>`
@@ -69,7 +69,7 @@ Create `index.html` in the `p1/` folder.
 ### 3. Create 3 Additional Menu Pages
 
 - Each file should match your menu items.
-  - We will built an about and contact page later, so don't include these are you menu pages.
+  - We will built an about and contact page later, so don't include these on your menu pages.
 - File names must be:
   - **lowercase**
   - **no spaces** (use hyphens or underscores if needed)
@@ -84,6 +84,9 @@ Create `index.html` in the `p1/` folder.
 
 #### Navigation:
 - Include a link back to the homepage (`index.html`), typically labeled as **Home**.
+
+#### Meaningful Content
+- Make sure you have meaningful content on your pages, yes it is fine to use generative content. If you need a specific number of words 100 per section on your page. 
 
 ✅ **Validate your HTML code**
 
@@ -100,6 +103,7 @@ Create `index.html` in the `p1/` folder.
   - `alt`, `title`, `height`, `width`, `loading="lazy"` (if image is above the fold)
 - Wrap images with `<figure>` and `<figcaption>` elements.
   - Use `<figcaption>` to cite the source of the image.
+  - Use the naming standard of lower case no spaces for image filename.
 
 ```html
 <figure>
@@ -107,6 +111,19 @@ Create `index.html` in the `p1/` folder.
   <figcaption>Image source or citation</figcaption>
 </figure>
 ```
+# 🖼️ Image Optimization Cheat Sheet for Web
+
+## 📐 Recommended Image Sizes
+
+| On-Screen Display Size     | Recommended Image Size | Why?                              |
+|----------------------------|-------------------------|------------------------------------|
+| 100 × 100 px               | 200 × 200 px            | Good for retina/high-DPI clarity  |
+| 300 × 300 px               | 600 × 600 px            | Typical for thumbnails/cards      |
+| 500 × 400 px               | 1000 × 800 px           | Common for blog images            |
+| 800 × 600 px               | 1600 × 1200 px          | Moderate hero images              |
+| Full-width (1200 px)       | 2400 px wide max        | For full-screen banners           |
+
+---
 
 ✅ **Validate your HTML code**
 
@@ -128,6 +145,8 @@ Create a new page named `site.html` and include the following:
 ✅ **Commit Message**: `"site page"`
 
 ---
+
+
 
 ## 🔍 Final Checklist (Before Moving On)
 
