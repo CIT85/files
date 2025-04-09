@@ -77,7 +77,7 @@ Create `index.html` in the `p1/` folder.
 
 #### Heading Structure:
 - Each page must have 3–4 heading levels under `<h1>`.
-- Include at 2 one sublevel (e.g., `<h2>` > `<h3>`).
+- Include at least 2 sublevel (e.g., `<h2>` > `<h3>`).
 
 #### Metadata:
 - Can reuse meta tags from `index.html`, but each page needs a **unique title and description**.
@@ -86,8 +86,7 @@ Create `index.html` in the `p1/` folder.
 - Include a link back to the homepage (`index.html`), typically labeled as **Home**.
 
 #### Meaningful Content
-- Make sure you have meaningful content on your pages, yes it is fine to use generative content. If you need a specific number of words 100 per section on your page. 
-
+- Ensure each page includes meaningful, relevant content. It's perfectly acceptable to use generative content, but it should be well-organized and purposeful. As a general guideline, aim for at least 100 words per article or major section to demonstrate thoughtful structure and substance. 
 ✅ **Validate your HTML code**
 
 ✅ **Commit Message**: `"menu pages created"`
