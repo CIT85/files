@@ -42,7 +42,7 @@ Create `index.html` in the `p1/` folder.
 - HTML5 semantic elements:
   - `header`, `main`, `nav`, `section`, `footer`, `article`
   - Include **either** an ordered or unordered list and a table.
-  - ✅ **Do NOT use `<div>` elements** or have `Untitled` in your HTML5 outliner
+  - ✅ **Do NOT use `<div>` elements** 
 
 #### Include at least 3 of the following HTML elements:
 - `<details>`
