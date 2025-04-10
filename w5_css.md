@@ -194,6 +194,7 @@ Take notes in your `README.md` for the following:
 - Best practices when removing list bullets
 - When and how to apply `border-radius` to create rounded UI sections
 
+* For my output I copied this ending code into folder outside of the code along for reference. 
 ✅ **COMMIT MESSAGE**:  "Create styled navigation menu using list and text formatting"
 
 
@@ -217,7 +218,6 @@ Take notes in your `README.md` for the following:
 - Benefits of `inline-block` for layout control without breaking line flow
 
 ✅ **COMMIT MESSAGE**: "Compare block vs inline vs inline-block display behavior"
-
 
 ## Convert List Items into Horizontal Navigation
 
@@ -262,7 +262,7 @@ Take notes in your `README.md` for the following:
 - Tell me in canvas you are taking a break
 - I will review and give you feedback on work completed to-date.
 - Complete by following Chapter 11 and 12 Monday Morning 
-- Late submissions allowed until end-of-day Thursday with a 10% penalty.
+- Late submissions allowed with a 10% penalty.
 - Reach out if you need help.
 
 # Chapter 11
@@ -354,8 +354,8 @@ Take notes in your `README.md` for the following:
 You’ve completed your second css code-along for this class!
 Here is how I will grade:
 
-1. Were all commits done correctly and had associated coding: 60 points
-2. Were are notes includes: 40 points
+1. Were all commits done correctly and has associated valid HTML and CSS: 60 points
+2. Were all notes includes: 40 points
 
 📤 Push your code to GitHub  
 🔗 Submit your commit history URL for the `w5_css` folder  
