@@ -23,7 +23,7 @@ Watch the video here: [CSS Full Course - Dave Gray](https://www.youtube.com/watc
 
 # Chapter 6 
 Setup your html and css content as instructed by Dave. 
-✅ **COMMIT MESSAGE**: "chapter 6 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 6 setup done"
 
 ## Set Base Typography and Inheritance
 
@@ -38,7 +38,7 @@ Take notes in your `README.md` for the following:
 - How inheritance works in CSS
 - Why `font: inherit;` is used for form elements
 
-✅ **COMMIT MESSAGE**: "Set base font and apply inheritance"
+  ✅ **COMMIT MESSAGE**: "Set base font and apply inheritance"
 
 ## Style Text: Decoration, Transform, Align, Spacing
 
@@ -54,7 +54,7 @@ Take notes in your `README.md` for the following:
 - Best practices for `line-height` and how it improves readability
 - When to use letter and word spacing
 
-✅ **COMMIT MESSAGE**: "Style paragraph text with spacing and alignment"
+  ✅ **COMMIT MESSAGE**: "Style paragraph text with spacing and alignment"
 
 ## Fonts and Google Fonts
 
@@ -73,11 +73,11 @@ Take notes in your `README.md` for the following:
 - Differences between `<link>` and `@import` methods
 - When to use quotes in `font-family` names
 
-✅ **COMMIT MESSAGE**: "Add custom font with Google Fonts"
+  ✅ **COMMIT MESSAGE**: "Add custom font with Google Fonts"
 
 # Chapter 7
 Setup your html and css content as instructed by Dave.
-✅ **COMMIT MESSAGE**: "chapter 7 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 7 setup done"
 
 ## Link Styling Basics and Pseudo Classes
 
@@ -98,7 +98,7 @@ Take notes in your `README.md` for the following:
 - Why link styling order matters (`a`, `a:visited`, `a:hover`, `a:active`)
 - The role of **specificity** in pseudo class styling
 
-✅ **COMMIT MESSAGE**: "Style links with pseudo classes and set proper cascade order"
+  ✅ **COMMIT MESSAGE**: "Style links with pseudo classes and set proper cascade order"
 
 ## Accessible Link Styling and Advanced Color Techniques
 
@@ -116,12 +116,12 @@ Take notes in your `README.md` for the following:
 - How background-color can simulate highlighting on hover/focus
 - When and why to avoid removing underlines from links
 
-✅ **COMMIT MESSAGE**: "Enhance link accessibility and style with HSL and opacity"
+  ✅ **COMMIT MESSAGE**: "Enhance link accessibility and style with HSL and opacity"
 
 
 # Chapter 8
 Setup your html and css content as instructed by Dave. 
-✅ **COMMIT MESSAGE**: "chapter 8 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 8 setup done"
 
 ## Customize List Styles and Behavior
 
@@ -140,7 +140,7 @@ Take notes in your `README.md` for the following:
 - How to use custom images for list bullets
 - Benefits of using the `list-style` shorthand
 
-✅ **COMMIT MESSAGE**: "Style ordered and unordered lists with custom list styles"
+  ✅ **COMMIT MESSAGE**: "Style ordered and unordered lists with custom list styles"
 
 ## Target Specific List Items and Style Markers
 
@@ -158,7 +158,7 @@ Take notes in your `README.md` for the following:
 - Creative ways to use `content` in `::marker`
 - Purpose and example of the rarely-used `value` attribute on `li` elements in ordered lists
 
-✅ **COMMIT MESSAGE**:  "Use nth-child and marker to customize list item display"
+  ✅ **COMMIT MESSAGE**:  "Use nth-child and marker to customize list item display"
 
 ## ⏸️ Break Time – Optional Check-in
 
@@ -174,7 +174,7 @@ Take notes in your `README.md` for the following:
 
 # Chapter 9 Mini Project
 Setup your html and css content as instructed by Dave.
-✅ **COMMIT MESSAGE**: "chapter 9 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 9 setup done"
 
 ## Build Navigation Menu with Typography and List Styles
 
@@ -195,12 +195,12 @@ Take notes in your `README.md` for the following:
 - When and how to apply `border-radius` to create rounded UI sections
 
 * For my output I copied this ending code into folder outside of the code along for reference. 
-✅ **COMMIT MESSAGE**:  "Create styled navigation menu using list and text formatting"
+  ✅ **COMMIT MESSAGE**:  "Create styled navigation menu using list and text formatting"
 
 
 # Chapter 10
 Setup your html and css content as instructed by Dave. 
-✅ **COMMIT MESSAGE**: "chapter 10 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 10 setup done"
 
 ## Understand Block and Inline Display in CSS
 
@@ -217,7 +217,7 @@ Take notes in your `README.md` for the following:
 - Why top/bottom margins and height don’t apply to inline elements
 - Benefits of `inline-block` for layout control without breaking line flow
 
-✅ **COMMIT MESSAGE**: "Compare block vs inline vs inline-block display behavior"
+  ✅ **COMMIT MESSAGE**: "Compare block vs inline vs inline-block display behavior"
 
 ## Convert List Items into Horizontal Navigation
 
@@ -234,8 +234,7 @@ Take notes in your `README.md` for the following:
 - The purpose and impact of a CSS reset
 - Differences between `padding-left` and full `padding` on containers
 
-✅ **COMMIT MESSAGE**: "Style list items as horizontal nav using inline-block"
-
+  ✅ **COMMIT MESSAGE**: "Style list items as horizontal nav using inline-block"
 
 ## Style Links and Hide Elements with Display None
 
@@ -267,7 +266,7 @@ Take notes in your `README.md` for the following:
 
 # Chapter 11
 Setup your html and css content as instructed by Dave. 
-✅ **COMMIT MESSAGE**: "chapter 11 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 11 setup done"
 
 ## Float Elements Left and Right with Margin Adjustments
 
@@ -284,7 +283,7 @@ Take notes in your `README.md` for the following:
 - How text wraps around floated elements on the left or right
 - When and how to float multiple elements on one page
 
-✅ **COMMIT MESSAGE**:"Float elements left and right with proper spacing"
+  ✅ **COMMIT MESSAGE**:"Float elements left and right with proper spacing"
 
 
 ## Fix Float Overflow in Containers Using Modern Techniques
@@ -302,12 +301,12 @@ Take notes in your `README.md` for the following:
 - Preferred modern method: `display: flow-root` for container containment
 - When to apply float containment to preserve page structure
 
-✅ **COMMIT MESSAGE**: "Fix container height around floats using display: flow-root"
+  ✅ **COMMIT MESSAGE**: "Fix container height around floats using display: flow-root"
 
 
 # Chapter 12
 Setup your html and css content as instructed by Dave.
-✅ **COMMIT MESSAGE**: "chapter 12 setup done"
+  ✅ **COMMIT MESSAGE**: "chapter 12 setup done"
 
 ## Create Responsive Columns with CSS
 
@@ -325,7 +324,7 @@ Take notes in your `README.md` for the following:
 - What margin collapsing is and why it's helpful
 - Why top margin is removed from the first paragraph inside columns
 
-✅ **COMMIT MESSAGE**: "Create responsive columns with spacing and dividers"
+  ✅ **COMMIT MESSAGE**: "Create responsive columns with spacing and dividers"
 
 
 ## Style Elements Across Columns and Prevent Line Breaks
@@ -345,7 +344,7 @@ Take notes in your `README.md` for the following:
 - How selector specificity affects which CSS rule is applied
 - How `white-space: nowrap` preserves content on a single line
 
-✅ **COMMIT MESSAGE**: "Style multi-column content with column-span and no-wrap control"
+  ✅ **COMMIT MESSAGE**: "Style multi-column content with column-span and no-wrap control"
 
 ---
 
