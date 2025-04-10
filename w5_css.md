@@ -4,7 +4,7 @@ Watch the video here: [CSS Full Course - Dave Gray](https://www.youtube.com/watc
 
 # Breaks offered
 - 4/21 Monday night - complete chapter 6, 7 and 8 and submit commit history for w5_css
-- 4/17 Thursday night - complete chapter 9 and 10 and submit commit history for w5_css
+- 4/24 Thursday night - complete chapter 9 and 10 and submit commit history for w5_css
 - 4/28 Monday morning - complete 11 and 12 and submit commit history for w5_css
 
 
