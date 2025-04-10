@@ -33,7 +33,7 @@ Code along with the video:
 - Add padding to the `body` and observe layout changes
 - Update `input` and `button` elements to inherit font settings
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - What typography means in web design
 - Why `rem` is preferred for font size
 - How inheritance works in CSS
@@ -48,7 +48,7 @@ Code along with the video:
 - Use `text-transform` (`capitalize`, `lowercase`, `uppercase`)
 - Experiment with `text-align`, `text-indent`, `line-height`, `letter-spacing`, and `word-spacing`
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Common `text-decoration` values
 - Effects of different `text-transform` values
 - How `text-align` and `text-indent` affect layout
@@ -67,7 +67,7 @@ Code along with the video:
   - `@import` in CSS
 - Apply the Google Font using a proper fallback font stack
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Numeric and keyword values for `font-weight`
 - Differences between `italic` and `oblique`
 - How font stacks work and the role of fallbacks
@@ -93,7 +93,7 @@ Code along with the video:
   - `a:hover`
   - `a:active`
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Default browser styles for links (unvisited, visited, active, hovered)
 - Purpose of pseudo classes like `:visited`, `:hover`, and `:active`
 - Why link styling order matters (`a`, `a:visited`, `a:hover`, `a:active`)
@@ -110,7 +110,7 @@ Code along with the video:
 - Opacity (`opacity` property or HSL/HSLA alpha channel)
 - Background-color for hover/focus effect
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Why `:focus` is important for accessibility
 - How to use HSL values for color variations and themes
 - How `opacity` changes the appearance of text and backgrounds
@@ -190,7 +190,7 @@ Code along with the video:
 - Style `ul` and remove bullets using `list-style-type: none`
 - Add `border-top` to each `li` for visual separation
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Purpose of a CSS reset
 - How `max-width` and `margin: auto` work together
 - How to inherit and override text styles inside nested elements
@@ -216,7 +216,7 @@ Code along with the video:
 - Test `margin`, `height`, and `padding` on both element types
 - Switch from `inline` to `inline-block` and observe layout and spacing changes
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Differences between `block`, `inline`, and `inline-block` display types
 - How default widths behave in block elements
 - Why top/bottom margins and height don’t apply to inline elements
@@ -249,7 +249,7 @@ Code along with the video:
 - Use `display: block` on links for full-area hover effect
 - Experiment with `display: none` on individual elements and entire sections
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - How to selectively style links inside `li` without affecting others
 - Why `display: block` helps improve link interactivity
 - When to use `display: none` and its accessibility trade-offs
@@ -283,7 +283,7 @@ Code along with the video:
 - Add margin to the floated element (not the text) to create spacing
 - Repeat with a `float: right` block after a few paragraphs
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - What happens when a block-level element is floated
 - Why margin must be applied to the floated element instead of surrounding text
 - How text wraps around floated elements on the left or right
@@ -301,7 +301,7 @@ Code along with the video:
 - Replace it with the modern fix: `display: flow-root`
 - Remove old clearfix div methods and confirm the layout works
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Why floated elements can escape their containers
 - Legacy method: using `overflow: auto` to contain floats
 - Preferred modern method: `display: flow-root` for container containment
@@ -324,7 +324,7 @@ Code along with the video:
 - Set `column-gap` for spacing between columns
 - Remove top margin on `p` tags inside `.columns` to align text
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - How `column-count`, `column-width`, and `columns` affect layout
 - Responsive behavior of columns on resize
 - What `column-rule` does and its syntax
@@ -344,7 +344,7 @@ Code along with the video:
 - Use a `.no-wrap` class and `white-space: nowrap` to prevent line breaks in author names
 - Resolve margin conflict with selector specificity (`.columns.quote`)
 
-Take notes in your `README.md` for the following:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Why and how to use `break-inside` and `break-before`
 - What `column-span: all` does
 - How to insert special characters like em dashes and curly quotes
