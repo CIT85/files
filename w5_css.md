@@ -23,6 +23,7 @@ Watch the video here: [CSS Full Course - Dave Gray](https://www.youtube.com/watc
 
 # Chapter 6 
 Setup your html and css content as instructed by Dave. 
+  
   ✅ **COMMIT MESSAGE**: "chapter 6 setup done"
 
 ## Set Base Typography and Inheritance
@@ -121,6 +122,7 @@ Take notes in your `README.md` for the following:
 
 # Chapter 8
 Setup your html and css content as instructed by Dave. 
+  
   ✅ **COMMIT MESSAGE**: "chapter 8 setup done"
 
 ## Customize List Styles and Behavior
@@ -174,6 +176,7 @@ Take notes in your `README.md` for the following:
 
 # Chapter 9 Mini Project
 Setup your html and css content as instructed by Dave.
+  
   ✅ **COMMIT MESSAGE**: "chapter 9 setup done"
 
 ## Build Navigation Menu with Typography and List Styles
@@ -195,11 +198,13 @@ Take notes in your `README.md` for the following:
 - When and how to apply `border-radius` to create rounded UI sections
 
 * For my output I copied this ending code into folder outside of the code along for reference. 
+  
   ✅ **COMMIT MESSAGE**:  "Create styled navigation menu using list and text formatting"
 
 
 # Chapter 10
 Setup your html and css content as instructed by Dave. 
+  
   ✅ **COMMIT MESSAGE**: "chapter 10 setup done"
 
 ## Understand Block and Inline Display in CSS
@@ -266,6 +271,7 @@ Take notes in your `README.md` for the following:
 
 # Chapter 11
 Setup your html and css content as instructed by Dave. 
+  
   ✅ **COMMIT MESSAGE**: "chapter 11 setup done"
 
 ## Float Elements Left and Right with Margin Adjustments
@@ -306,6 +312,7 @@ Take notes in your `README.md` for the following:
 
 # Chapter 12
 Setup your html and css content as instructed by Dave.
+  
   ✅ **COMMIT MESSAGE**: "chapter 12 setup done"
 
 ## Create Responsive Columns with CSS
