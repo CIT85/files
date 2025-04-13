@@ -24,7 +24,7 @@ Use **only CSS concepts** from Chapters 1–13. Your styling should demonstrate:
 
 ### ❌ Do NOT:
 
-- Use **CSS Grid**, **Flexbox**, **Media Queries**, or content after **Chapters 14+**
+- Use **CSS Grid**, **Flexbox**, **Media Queries**, or content after **Chapters 13**
 - Use any CSS frameworks or libraries
 - Overuse `<div>` elements — more than a few will result in point deductions
 
@@ -37,6 +37,7 @@ Use **only CSS concepts** from Chapters 1–13. Your styling should demonstrate:
 - Apply base font and color settings using `body` or `html` selectors
 - Set a default `font-family` with a fallback stack (Google Fonts optional)
 - Add `line-height`, `background-color`, and `text-color` for the entire site
+
 ✅ **Commit Message**: `"first attempt at base styles"`
 
 
@@ -45,12 +46,14 @@ Use **only CSS concepts** from Chapters 1–13. Your styling should demonstrate:
 - Use `inline-block`, `float`, or `positioning` to style layout (e.g., header, nav, sections)
 - Create a **horizontal nav bar** using `inline-block` or float methods
 - Apply visible spacing using margins and padding
+
 ✅ **Commit Message**: `"first attempt at layout & containers"`
 
 #### c. Content Styling (15 pts)
 
 - Style at least one table and one list creatively (e.g., row colors, list markers)
 - Use `columns` (`column-count`, `column-width`) on one section or page
+
 ✅ **Commit Message**: `"first attempt at content styling"`
 
 #### d. Typography & Links (15 pts) — Apply to All Pages
@@ -64,6 +67,7 @@ Use **only CSS concepts** from Chapters 1–13. Your styling should demonstrate:
   - Colors or underlines to support usability and accessibility
 - Apply styles using **inheritance and class selectors** (no inline styles or IDs)
 - Add a heading (`## Typography Enhancements`) some content in your README.md regarding which element and styles you implemented here. 
+
 ✅ *Typography and link styles must be visible and consistent across your homepage and all content pages.*
 
 ✅ **Commit Message**: `"first attempt at typography & links"`
