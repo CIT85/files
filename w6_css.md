@@ -125,8 +125,13 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
 - How `order` repositions items in a container
 - How these values interact with `row-reverse` and `wrap`
 
-- Play https://flexboxfroggy.com/ complete at least 1 thru 12, take a printscreen, resize to 400 width, name the file `my-frogger` place it in the img folder for all code along work and provide a link here. 
-- ex ```![my-frogger](../img/my-frogger.png)``` (note: not a working link)
+- Play https://flexboxfroggy.com/ 
+  * Complete at least 1 thru 12 (More if times allows)
+  * Take a printscreen of frogger and your name on canvas
+  * Resize to 400px width, name the printscreen image `my-frogger` 
+  * Place it in the img folder for all code along work and provide a link here
+
+    - ex ```![my-frogger](../img/my-frogger.png)``` (note: not a working link)
 
 ✅ **COMMIT MESSAGE**: "styled flex items with grow, shrink, basis, froggy and order"
 
@@ -201,8 +206,12 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
 - Using DevTools to visualize grid lines and placement
 - When to use `gap`, `row-gap`, or `column-gap`
 
-- Play https://cssgridgarden.com/ complete at least 1 thru 16, take a printscreen, resize to 400 width, name the file `my-garden` place it in the img folder for all code along work and provide a link here. 
-- ex ```![my-garden](../img/my-garden.png)``` (note: not a working link)
+- Play https://cssgridgarden.com/
+  * Complete at least 1 thru 16 (More if times allows)
+  * Take a printscreen of garden showing the number you completed and your name on canvas
+  * Resize to 400px width, name the printscreen image `my-garden` 
+  * Place it in the `img` folder for all code along work and provide a link here
+    - ex ```![my-garden](../img/my-garden.png)``` (note: not a working link)
 
 ✅ **COMMIT MESSAGE**: "created full page layout using grid-template-areas and grid garden"
 
