@@ -20,7 +20,7 @@
 ### Markdown Note
 
 - Create `README.md` inside `w4_css`
-- Add heading: `# Week 4 - Chp 1 thru 51`
+- Add heading: `# Week 4 - Chp 1 thru 5`
 - Add heading: `## What is cascading`
 - Write your understanding of cascading
 - Code along and only delete an inline style before committing
@@ -144,6 +144,10 @@
 ## 🎉 Congratulations
 
 You’ve completed your first css code-along for this class!
+
+Here is how I will grade:
+1. Were all commits done correctly and had associated coding: 60 points
+2. Were are notes includes: 40 points
 
 📤 Push your code to GitHub  
 🔗 Submit your commit history URL for the `w4_css` folder  
