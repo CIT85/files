@@ -144,7 +144,7 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
 - Submit your GitHub history URL for the w6_css folder 
 - Tell me in canvas you are taking a break
 - I will review and give you feedback on work completed to-date.
-- Complete by following Chapter 15 and 16 Monday Morning 
+- Complete by following Chapter 15 and 16 Thursday 
 - Late submissions allowed with a 10% penalty.
 - Reach out if you need help.
 
