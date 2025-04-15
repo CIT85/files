@@ -46,7 +46,7 @@ Code along with the video:
 - Implement `position: sticky` on headers with `top: 0`
 - Learn how `z-index` determines stacking order between elements
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - How fixed elements remain visible across scroll
 - Sticky elements stick until their container scrolls out of view
 - How `z-index` affects which element appears on top
@@ -62,7 +62,7 @@ Code along with the video:
 - Add a fixed social media button to the side of the page
 - Use `scroll-behavior: smooth` to enable smooth scrolling
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Benefits of using position in SPA (single-page application) layouts
 - Difference between `position: fixed` for footer and `position: sticky` for headers
 - How `scroll-behavior: smooth` improves user experience
@@ -88,7 +88,7 @@ Code along with the video:
 - Add `gap` for spacing between items
 - Change `flex-direction` to `row`, `column`, `row-reverse`, or `column-reverse`
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Difference between `justify-content` and `align-items`
 - Purpose of `flex-direction` and how it impacts alignment
 - When to use `gap` and its visual effects
@@ -103,7 +103,7 @@ Code along with the video:
 - Control vertical row alignment using `align-content`:
   - `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `space-evenly`
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Why and when to use `flex-wrap`
 - How `flex-flow` simplifies direction and wrapping setup
 - Difference between `align-items` and `align-content`
@@ -119,7 +119,7 @@ Code along with the video:
 - Apply `flex` shorthand: `flex: grow shrink basis`
 - Set `order` to change the visual order of items in the container
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - How `flex-grow`, `flex-shrink`, and `flex-basis` affect size and behavior
 - Syntax and use of `flex` shorthand
 - How `order` repositions items in a container
@@ -161,7 +161,7 @@ Code along with the video:
 - Define row height using `grid-auto-rows`
 - Combine `minmax()` with `grid-auto-rows` for flexible row sizing
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Difference between absolute and fractional grid units
 - Purpose of `repeat()` and `minmax()` functions
 - How rows and columns are created implicitly vs. explicitly
@@ -178,7 +178,7 @@ Code along with the video:
   - Apply `display: grid` to the nested item
   - Use `place-content` to center inner content
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - How line numbers define grid placement
 - Difference between full property names and shorthand
 - How to use a grid inside a grid item (nesting)
@@ -195,7 +195,7 @@ Code along with the video:
 - Assign grid areas using `grid-area` on individual elements
 - Use `gap`, `row-gap`, and `column-gap` to add spacing
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - How `grid-template-areas` visualizes page layout
 - Naming and applying areas (`HD`, `MN`, `SB`, `FT`)
 - Using DevTools to visualize grid lines and placement
@@ -221,7 +221,7 @@ Code along with the video:
 - Set `width: 25%` and `height: auto` on the image in CSS to make it responsive
 - Use `display: block` to remove default inline spacing below images
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Why images need intrinsic width/height in HTML
 - How `width` and `height: auto` make an image responsive
 - Why `display: block` is recommended for images
@@ -237,7 +237,7 @@ Code along with the video:
 - Style the image with `border-radius: 50%` and `border`
 - Hide figcaption using a `.offscreen` utility class
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Why use a `figure` and `figcaption` for semantic images
 - How flexbox helps layout hero sections
 - How to use `border-radius` for circular images
@@ -254,7 +254,7 @@ Code along with the video:
 - Layer with a semi-transparent background color to improve text readability
 - Wrap content in a `.container` and apply background settings there
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Difference between `cover` and `contain`
 - How to control repeat behavior and position for background images
 - Creating overlays with transparency to improve contrast
@@ -270,7 +270,7 @@ Code along with the video:
 - Style text with `background-clip: text` and `color: transparent`
 - Use browser-prefixed `-webkit-background-clip` for broader compatibility
 
-Take notes in your `README.md`:
+Take notes in your README.md using ## Markdown headings to clearly label this section.
 - Syntax for using multiple backgrounds and gradients
 - How to create masked text with image-filled letters
 - Browser support issues with `background-clip: text`
@@ -279,7 +279,7 @@ Take notes in your `README.md`:
 
 ## 🎉 Congratulations
 
-You’ve completed your fourth css code-along for this class!
+You’ve completed your third css code-along for this class!
 Here is how I will grade:
 
 1. Were all commits done correctly and has associated valid HTML and CSS: 60 points
