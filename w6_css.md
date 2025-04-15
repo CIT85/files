@@ -132,6 +132,7 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
   * Place it in the img folder for all code along work and provide a link here
 
     - ex ```![my-frogger](../img/my-frogger.png)``` (note: not a working link)
+    - [link text](https://youtube.com)
 
 ✅ **COMMIT MESSAGE**: "styled flex items with grow, shrink, basis, froggy and order"
 
