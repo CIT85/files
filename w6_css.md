@@ -12,7 +12,7 @@ Watch the video here: [CSS Full Course - Dave Gray](https://www.youtube.com/watc
 - Create `index.html` with basic HTML structure
 - Create a css folder and in that folder create `style.css` and link it to your HTML before starting the CSS code-along
 - Copy the README.md from w4_css into the w5_css
-- Add heading: `# Week 6 - Chp 13 thru 17`
+- Add heading: `# Week 6 - Chp 13 thru 16`
 
   ✅ **COMMIT MESSAGE**: `"setup for week 6 css done"`
 
