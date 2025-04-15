@@ -132,7 +132,7 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
   * Place it in the img folder for all code along work and provide a link here
 
     - ex ```![my-frogger](../img/my-frogger.png)``` 
-    - Working example: ![my-frogger](../img/my-frogger.png)
+    - Working example: ![my-frogger](img/my-frogger.png)
 
 ✅ **COMMIT MESSAGE**: "styled flex items with grow, shrink, basis, froggy and order"
 
