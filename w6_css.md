@@ -131,9 +131,8 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
   * Resize to 400px width, name the printscreen image `my-frogger` 
   * Place it in the img folder for all code along work and provide a link here
 
-    - ex ```![my-frogger](../img/my-frogger.png)``` (note: not a working link)
-    - [link text](https://youtube.com)
-
+    - ex ```![my-frogger](../img/my-frogger.png)``` 
+    
 ✅ **COMMIT MESSAGE**: "styled flex items with grow, shrink, basis, froggy and order"
 
 
