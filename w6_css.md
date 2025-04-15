@@ -212,7 +212,8 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
   * Take a printscreen of garden showing the number you completed and your name on canvas
   * Resize to 400px width, name the printscreen image `my-garden` 
   * Place it in the `img` folder for all code along work and provide a link here
-    - ex ```![my-garden](../img/my-garden.png)``` (note: not a working link)
+  
+    - ex ```![my-garden](../img/my-garden.png)``` 
 
 ✅ **COMMIT MESSAGE**: "created full page layout using grid-template-areas and grid garden"
 
