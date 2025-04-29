@@ -1,4 +1,4 @@
-# Code Along Instruction for Chapter 17 to 19
+# Code Along Instruction for Chapter 17 and 18
 https://www.youtube.com/watch?v=OXGznpKZ_sA
 
 
@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=OXGznpKZ_sA
 - Create `index.html` with basic HTML structure
 - Create a css folder and in that folder create `style.css` and link it to your HTML before starting the CSS code-along
 - Copy the README.md from w6_css into the w7_css
-- Add heading: `# Week 7 - Chp 17 thru 19`
+- Add heading: `# Week 7 - Chp 17 and 18`
 
 # Chapter 17  
 Setup your html and css content as instructed by Dave.  
@@ -59,6 +59,83 @@ Take notes in your README.md using ## Markdown headings to clearly label this se
 
 ✅ **COMMIT MESSAGE**: "added multiple media queries with color breakpoints and device simulation"
 
+# Chapter 18  
+Setup your html and css content as instructed by Dave.  
+  
+✅ **COMMIT MESSAGE**: "chapter 18 setup done"
+
+## Staff Profile Cards - Part 1: HTML Structure and Basic Styles
+
+Code along with the video:
+- Update the page title to "CSS Mini Project: Profile Cards."
+- Add a header with "Our Staff."
+- Build a navigation menu linking to profile sections (Joe, Matt, Jane).
+- Build profile cards:
+  - Use `<article>`, `<figure>`, `<img>`, `<figcaption>`, `<p>`.
+  - Set `id`, `class`, `width`, `height` attributes.
+  - Use semantic HTML elements.
+- Apply CSS base styles:
+  - Image reset (`img { display: block; max-width: 100%; height: auto; }`).
+  - Flexbox layout for cards (column direction).
+  - Utility class `.no-wrap` for names that shouldn't break.
+  - Smooth scrolling (`html { scroll-behavior: smooth; }`).
+  - Basic card styles (backgrounds, padding, border, border-radius).
+
+Take notes in your README.md using ## Markdown headings:
+- How setting image width/height prevents layout shift
+- How the `.no-wrap` class preserves name formatting
+- How `scroll-behavior: smooth` improves navigation
+- How Flexbox was used to center and organize the layout
+
+✅ **COMMIT MESSAGE**: "created staff profile cards with images, utility classes, and responsive layout"
+
+---
+
+## ⏸️ Break Time – Optional Check-in
+
+- How to Take a break 
+- Complete work up to this point
+- Make sure you have pushed your code
+- Submit your GitHub history URL for the w7_css folder 
+- Tell me in canvas you are taking a break
+- I will review and give you feedback on work completed to-date.
+- Complete by following second part of chapter 18 by Thursday 
+- Late submissions allowed with a 10% penalty. 
+- Reach out if you need help.
+
+
+## Staff Profile Cards -  Responsive Design and Breakpoints
+
+Code along with the video:
+- Apply responsive design using media queries:
+  - **Small breakpoint (576px)**:
+    - Allow cards to wrap to new rows.
+    - Adjust padding and justify content.
+  - **Medium breakpoint (768px)**:
+    - Hide navigation menu.
+    - Adjust card sizing and layout flow.
+    - Reverse column direction inside cards (`column-reverse`).
+  - **Large breakpoint (992px)**:
+    - Adjust card width and re-order cards for better layout.
+  - **XL breakpoint (1200px)**:
+    - Use `calc(33% - 1rem)` for flexible card sizing.
+  - **Landscape orientation (max-height: 425px and min-aspect-ratio: 7/4)**:
+    - Set card layout to single row.
+    - Stretch cards evenly.
+    - Fine-tune font sizes and spacing.
+
+- Use Chrome DevTools:
+  - Test media query breakpoints visually.
+  - Simulate devices and device rotation.
+
+Take notes in your README.md using ## Markdown headings:
+- How `min()`, `max()`, and `calc()` were used for responsive sizing
+- How to reorder flex items using the `order` property
+- How to use `aspect-ratio` and `max-height` to target landscape modes
+- How Chrome DevTools "Show Media Queries" option can help in testing
+
+✅ **COMMIT MESSAGE**: "added responsive breakpoints, reordered cards at different screen sizes, and optimized for landscape mode"
+
 ## 🎉 Congratulations
 
 You’ve completed your third css code-along for this class!
@@ -68,51 +145,5 @@ Here is how I will grade:
 2. Were all notes includes: 40 points
 
 📤 Push your code to GitHub  
-🔗 Submit your commit history URL for the `w6_css` folder  
+🔗 Submit your commit history URL for the `w7_css` folder  
 
-## Chapter - 18 (5:58:40 to 6:32:34)
-
-In the video Dave will change his folder for each lesson, but for our work we will name the folder for the week and subject we are coding along with, so for this week it will be w7_css (week 7 css). 
-
-You can use the files from W6_css, or setup them up from Dav's repo, either way setup the normal files we have been using index.html, style.css (in a css folder) and download images from the starter code in a img folder.  
-
-* **COMMIT MESSAGE - "setup for week 7 css done"**
-
-
-* See the final project we will be creating in this chapter! FUN STUFF! Now code along with Dave as we start by setting up the nav and footer structure and content.  Before Dave start to code the css, commit.
-
-* **COMMIT MESSAGE - "nav and footer structure and content"**
-
-* Code along as Dave start the styling several different parts of the card project, before he starts on the media queries, commit.
-
-* **COMMIT MESSAGE - "card project styling"**
-
-* Now code along with Dave as he handles the different break points in the media queries for the different sizes and orientation, commit. 
-
-* **COMMIT MESSAGE - "media queries for card project"**
-
-## BREAKS ARE IMPORTANT (Optional)
-
-Because you have worked hard to get to this point:
-* I recommend you submit your github history URL and finish the  chapter 19 tomorrow.  
-* This is optional and if you are feel you are able to keep focused them continue on.  
-* If you missed the first due date for this work and you are trying to use this break to get caught up, complete the entire code along work for this item and I will reduce your points by 10% and not the normal late work reduction of 25%. Reach out if you have questions about this option. 
-
-
-## Chapter - 19 (6:32:34 to 5:59:59)
-
-* Starter files are form last chapter.
-
-
-* Follow along as Dave revisits pseudo classes and pseudo element, after Dave covers :not, commit. 
-
-* **COMMIT MESSAGE - ":is, :anylink, :target, :not"**
-
-* Continue coding along with nth-child and how it handled with media queries and the html placement, then Dave will cover pseudo elements, 
-
-
-* **COMMIT MESSAGE - "::before ::after ::first-letter, ::first-line"**
-
-
-## Congratations
-You have finished your 8th code along for our class, push your code to github and give your commit history URL for the w7_css folder to show you have completed this work. 
