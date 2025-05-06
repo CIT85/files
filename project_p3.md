@@ -10,12 +10,13 @@
 
 ---
 
-## 2. Fix Phase 2 Issues Before Starting (5 points)
+## 2. Fix Phase 2 Issues Before Starting 
 
 Before beginning Phase 3 work, review any feedback or required corrections from Phase 2 grading.
 
-- Fix all issues that were identified in your Phase 2 feedback.
+- Fix all issues that were identified as must fix before next phase in your Phase 2 feedback. Unfixed items will also be calculated into your score for phase 3.  
 - Validate your HTML and CSS again after making fixes.
+- If you did not need to fix anything, you can skip this step. 
 
 ✅ **Commit Message**: `"fixing phase 2"`
 
@@ -171,8 +172,7 @@ We will add a **cover image** as part of the **final project polishing step**, s
 
 | Requirement                     | Points |
 |----------------------------------|--------|
-| Set up p3 folder                 | 5      |
-| Fix Phase 2 issues               | 5      |
+| Set up p3 folder                 | 10     |
 | Visual Layout Plan (Markdown)    | 15     |
 | Refactor using Flexbox + Grid    | 30     |
 | New subpage added                | 10     |
