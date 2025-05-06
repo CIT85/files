@@ -25,15 +25,12 @@ Before beginning Phase 4 work, review any feedback for required corrections from
 
 ## 📋 Requirements
 
-### Plan Responsive Layout with Media Queries
+### Plan Responsive Layout with Media Queries Requirements
 - Refactor your HTML and CSS to support **responsive layout** using **media queries**
 - Choose **one of the three standard breakpoint systems** from Dave’s tutorial:  
   [Dave Gray’s Media Query Guide (Lesson 17)](https://github.com/gitdagray/css_course/blob/main/17_lesson/notes.md)
-- Your layout must respond to screen size changes by adjusting:
-  - Grid or column layouts
-  - Navigation structure and padding
-  - Font sizes
-  - Images and content alignment
+- Your layout must respond to different screen sizes by adjusting the navigation menu, reorganizing content layout (e.g., switching from columns to stacked blocks, and/or font sizing), and resizing or repositioning images to maintain readability and usability.
+
 ###  3. Your layout-plan.md Must Include
 - In your README.md What accessibility considerations will be implemented with heading `Accessibility`
 - In your layout-plan.md file 
@@ -45,43 +42,41 @@ Before beginning Phase 4 work, review any feedback for required corrections from
 ✅ **Commit Message**: `"created initial layout mq plan"`
 ✅ **When you revise**: `"updated layout-plan for aligned left content"`
 
-### ✅ 2. Add One New Page
+### ✅ 4. Add One New Page
 - Create one **new subpage** and **link to it from existing page content** (not through the nav menu)
   > 🧭 For example: a “Learn More” link inside a paragraph or details tag
 - This new page should be added to the list of pages in your `site.html`
 
-### ✅ 3. Use Semantic HTML & Maintain Structure
+### ✅ 4. Use Semantic HTML & Maintain Structure
 - Use HTML5 semantic elements like `<main>`, `<section>`, `<article>`, `<aside>`, `<nav>`, and `<footer>`
 - ✅ Avoid unnecessary use of `<div>`  
 - ✅ Check your page using the **HTML5 Outliner tool**  
   > ❌ Make sure there are **no untitled elements**
 
-### ✅ 4. Responsive Images
+### ✅ 6. Responsive Images
 - All images need to be  **responsive and scales correctly** on the media query standard you have selected.
 - Your image should maintain good visual flow and spacing across devices
 - Use semantic markup like `<figure>` and `<figcaption>` and test how the image behaves at small, medium, and large widths
 
-### ✅ 5. Site Map Page (`site.html`)
+### ✅ 7. Site Map Page (`site.html`)
 Your `site.html` should include:
 - A **list of all pages**, including your newly added page
 - A clear and organized layout that reflects the rest of your site’s design
 
 ---
 
-## ♿️ 6. Accessibility Considerations (A11y)
+## ♿️ 8. Accessibility Considerations (A11y)
 Your project must demonstrate awareness of accessibility practices:
 
 - ✅ Use descriptive `alt` attributes for all images
 - ✅ Maintain a clear **heading hierarchy**
 - ✅ Use **semantic HTML** instead of relying on styling alone
 - ✅ Ensure link text is meaningful
-- ✅ Test keyboard navigation
 - ✅ Make sure text has enough **color contrast**
-- ✅ Do not remove browser default focus outlines unless replaced with an accessible alternative
 
 ---
 
-## 🔄 7. Commits & Documentation
+## 🔄 9. Commits & Documentation
 
 ### ✅ Commit Expectations
 - Use short but descriptive commit messages like:
@@ -97,9 +92,9 @@ Your project must demonstrate awareness of accessibility practices:
 | Requirement                     | Points |
 |----------------------------------|--------|
 | Set up p4 folder                 | 10     |
-| Visual Layout Plan Update for MQ | 30     |
+| MQ for standard selected         | 30     |
 | Responsive Images                | 15     |
 | New subpage added                | 10     |
 | HTML/CSS validation              | 5      |
-| README and CSS documentation     | 30     |
+| Documentation and Commits        | 30     |
 | **Total**                        | **100**|
