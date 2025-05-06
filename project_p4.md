@@ -1,7 +1,7 @@
 # Phase 4: Responsive Design & Media Queries
 
 ## 📌 Goal
-Refactor your existing site from Phase 3 to include responsive design using **media queries**. You will also **add one new page**, connect it from within your site (not via the menu), and update your `site.html`.
+Refactor your existing site from Phase 3 to include responsive design using **media queries**, **add one new page**, **make images responsive** and **add additional accessibility**
 
 ---
 ## 1. Set Up Your Project Folder (5 points)
