@@ -5,7 +5,7 @@
 - Fix any issues you had in `p1`.
 - Inside your **private repo**, in the `project` folder create a new folder named `p2`.
 - Copy the **final version** of your code from `p1` into the `p2` folder.
-
+- Create a css folder inside the p2 folder and place your style.css there. 
 ✅ **Commit Message**: `"setup for p2 done"`
 
 ---
@@ -119,6 +119,18 @@ git commit -m "added base typography"
 ✅ Reach out to **me** or **Zac** if you need help — don’t wait!
 
 ---
+
+| Category                           | Score     |
+| ---------------------------------- | --------- |
+| Base Styles                        | 10        |
+| Layout & Containers                | 15/15     |
+| Content Styling                    | 15        |
+| Typography & Links                 | 15        |
+| Decorative/Positional Enhancements | 10        |
+| Color Palette Display              | 10        |
+| CSS Docs and Commits               | 35        |
+| **Total**                          | **65/75** |
+
 
 🎉 **Your goal isn’t perfection — it’s to demonstrate what you’ve learned. Build something you’re proud of and enjoy the creative process**
 
