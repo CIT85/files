@@ -6,6 +6,15 @@
 - Inside your **private repo**, in the `project` folder create a new folder named `p2`.
 - Copy the **final version** of your code from `p1` into the `p2` folder.
 - Create a css folder inside the p2 folder and place your style.css there. 
+- Make sure you use the project/img for all phases, don't create an img inside the p2.
+- Folder structure:
+```project/
+├── p1/
+├── img/
+├── p2/
+│   └── css/style.css
+```
+
 ✅ **Commit Message**: `"setup for p2 done"`
 
 ---
