@@ -64,7 +64,7 @@ Setup your html and css content as instructed by Dave.
   
 ✅ **COMMIT MESSAGE**: "chapter 18 setup done"
 
-## Staff Profile Cards - Part 1: HTML Structure and Basic Styles
+## Staff Profile Cards -  HTML Structure and Basic Styles
 
 Code along with the video:
 - Update the page title to "CSS Mini Project: Profile Cards."
