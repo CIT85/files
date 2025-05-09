@@ -132,13 +132,13 @@ git commit -m "added base typography"
 | Category                           | Score     |
 | ---------------------------------- | --------- |
 | Base Styles                        | 10        |
-| Layout & Containers                | 15/15     |
+| Layout & Containers                | 15     |
 | Content Styling                    | 15        |
 | Typography & Links                 | 15        |
 | Decorative/Positional Enhancements | 10        |
 | Color Palette Display              | 10        |
-| CSS Docs and Commits               | 35        |
-| **Total**                          | **65/75** |
+| CSS Docs and Commits               | 25        |
+| **Total**                          | **100** |
 
 
 🎉 **Your goal isn’t perfection — it’s to demonstrate what you’ve learned. Build something you’re proud of and enjoy the creative process**
