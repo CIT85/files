@@ -111,12 +111,4 @@ Professional developers don't guess their spacing; they measure it.
 **Commit 3:** `Attendance: Inspected the Box Model using DevTools and added comment`
 6. **Push** your code to GitHub.
 
----
-
-## Submission & Discussion
-Go to the Canvas assignment and submit your live GitHub Pages URL (e.g., `cit85.github.io/your-pub/w5`).
-
-In your discussion post, answer the following:
-1. In your own words, based on this visual experiment, what is the exact difference between `padding` and `margin`? 
-2. How did putting two classes on a single HTML element (`class="card box-a"`) help us write more efficient CSS?
 
