@@ -88,4 +88,4 @@ In this project, you will **refactor** your CSS to use professional standards: *
 ## Deliverables
 1.  **The Code:** Your `project` folder updated with the new HTML CTA box and refactored CSS layout.
 2.  **The Document:** An updated `README.md` containing your **Week 5 Notes**.
-3.  **Push:** Push your updates to your `your-pri` GitHub repository.
+3.  **Push:** Push your updates to your `your-pri`  GitHub repository.
