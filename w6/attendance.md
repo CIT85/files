@@ -1,3 +1,46 @@
+# Week 6 Attendance: The "Code Audit" & Semantic Upgrade
+
+## Overview
+This week, we move from "painting" our sites to "engineering" them. Before the Code Along, you will use AI to audit your Week 5 code, and then you will perform a manual "Semantic Upgrade" to your Week 3 work.
+
+---
+
+## Part 1: The Code Audit (Week 5 Project)
+The goal is to find "patterns" and "generic boxes" in your current CSS/HTML.
+
+1. **Prepare your Code:** Open your `index.html` and `style.css` from Week 5.
+2. **Run the Audit:** Copy the prompt below and paste it into an AI chat, followed by your code.
+
+### The Audit Prompt
+> "I am a student learning CSS. I am providing my HTML and CSS code below. Please act as a technical code reviewer and help me find patterns by answering these three questions:
+> 
+> 1. **The Pattern Search:** How many times have I manually typed out my hex color codes in my CSS? 
+> 2. **The Container Check:** Identify the `<div>` tags in my HTML. Based on the content inside them, suggest a more 'semantic' HTML5 tag (like `<section>`, `<article>`, or `<figure>`) that would give the browser more information about that content.
+> 3. **The Box Math:** Look at my `.cta-box` CSS. Based on the `max-width`, `padding`, and `border`, calculate the **total footprint** (actual width) of the box on the screen. Is this larger than 650px?
+> 
+> Please provide brief, clear answers."
+
+---
+
+## Part 2: The Semantic Upgrade (Week 3 Work)
+Now, let's practice using semantic tags on your older work. 
+
+1. **Open Folder:** Go to your `w3` folder in your `your-pub` repository.
+2. **Refactor Image:** Find the main `<img>` tag in your Week 3 `index.html`.
+3. **Add Figure:** Wrap that `<img>` tag inside a `<figure>` tag. 
+4. **Add Caption:** Directly below the image (inside the figure), add a `<figcaption>` that describes the image or provides a source credit.
+5. **Commit:** `Attendance: Upgraded w3 image to use figure and figcaption`
+
+
+
+## Submission Requirements
+Reply to the Canvas post with:
+1. The **total width calculation** the AI gave you for your Week 5 `.cta-box`.
+2. One **semantic tag** the AI suggested you use instead of a `div`.
+3. A link to your **w3** GitHub Pages URL showing your new image caption.
+
+
+
 # Week 6 Attendance: The "Code Audit"
 
 ## Overview
