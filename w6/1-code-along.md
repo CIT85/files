@@ -1,7 +1,7 @@
 # Week 6 Code Along: The Professional Refactor
 
 ## Overview
-Welcome to **Phase 2**. This week, we move beyond basic styling and start "engineering" our CSS. You will fix the common frustrations discovered in your Code Audit by implementing the **Global Reset** to fix box math, using **Logical Properties** for modern spacing, and introducing **Utility Classes**. 
+Welcome to **Phase 2**. This week, we move beyond basic styling and start "engineering" our CSS. Implementing the **Global Reset** to fix box math, using **Logical Properties** for modern spacing, and introducing **Utility Classes**. 
 
 By the end of this week, you will stop styling individual tags and start building reusable **Card Components** using `<div>` and `<span>`.
 
@@ -15,6 +15,9 @@ By the end of this week, you will stop styling individual tags and start buildin
     * *Note:* This ensures you are building upon your previous work without overwriting your history.
 3.  Open the `w6` folder in VS Code.
 4.  Commit with message `setup w6 done`
+
+**Objective:** Complete videos 31 through 36.
+**Playlist:** [Kevin Powell HTML & CSS (2025 Update)](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx)
 
 ## Commit Log
 
