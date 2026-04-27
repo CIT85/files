@@ -5,12 +5,13 @@ Phase 3 focuses on the "User Experience" (UX) and "CSS Engineering" layers of yo
 
 ## Requirements
 
-### Step 1: The Hero Section Refactor (index.html)
+### Step 1: The Hero Section Refactor & Descendant Selectors (index.html)
 * **The Structure:** Ensure your `index.html` has the `<h1>` as the primary page heading, followed by a `<section class="hero-section">` containing your tagline.
 * **Background Method A (Layout):** * Remove any inline `<img>` tags and move the image to CSS using `background-image`.
     * Use a `linear-gradient` scrim (as shown in attendance) to ensure text readability.
     * Apply `background-size: cover` and `background-position: center top` to preserve your image's focal point (e.g., the rider's head).
 * **Sizing:** Use **Viewport Height** (e.g., `min-height: 60vh`) and **Padding** to determine the section's size. No fixed pixel heights!
+* **Descendant Selector Requirement:** You must use a **Descendant Selector** for the text on your hero background image.
 * **Commit 1:** `Project: Refactored Hero section with CSS background and viewport sizing`
 
 ### Step 2: Component Backgrounds & Descendant Selectors
