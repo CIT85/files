@@ -3,6 +3,14 @@
 ## Overview
 Phase 4 focuses on structural engineering. You will implement a global `.wrapper`, a flex-based navigation header, and a responsive grid that adapts to the user's screen size using modern **Nested Media Queries**.
 
+## ⚠️ The "Zero Magic Code" Rule
+You are now responsible for every pixel of your layout. You may use **Flexbox**, **CSS Grid**, and **Nested Media Queries**, but you must adhere to these standards:
+
+* **No "Guessing" Breakpoints:** Do not use arbitrary numbers (like 768px). Your breakpoints must be determined by the **"Squish Test"**—set your media query at the exact width where your content begins to look cramped.
+* **Alignment is Earned:** You cannot use `align-items: center` until you have zeroed out default browser margins/padding (e.g., `margin: 0; padding: 0;` on your `<ul>`).
+* **Nested Logic Only:** To keep code maintainable, all media queries must be **nested** inside their parent selectors.
+* **The "Why" in the README:** If you cannot explain why a property is in your CSS, it is "Magic Code" and must be removed.
+
 ## Technical Requirements
 
 ### Step 0: The Responsive Pre-Flight Checklist

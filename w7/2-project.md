@@ -3,6 +3,12 @@
 ## Overview
 Phase 3 focuses on the "User Experience" (UX) and "CSS Engineering" layers of your project. You will implement interactive states, apply advanced background image techniques using AI-generated assets, and document your code's "weight" through a Specificity Audit.
 
+## ⚠️ The "Zero Magic Code" Rule
+You may only use HTML tags and CSS properties that have been explicitly covered in Kevin's videos or our Code Alongs up to this point. 
+
+* **No Advanced Layouts Yet:** Do not copy/paste advanced layout code (like Flexbox, CSS Grid, Floats, or Absolute Positioning) from the internet to fix spacing issues. We will master these in Week 8.
+* **Explain Every Line:** If you include CSS properties that you cannot explain line-by-line during a check-in, it will negatively impact your grade. We are focusing on mastering the **Box Model** and **Flow** first!
+
 ## Requirements
 
 ### Step 1: The Hero Section Refactor & Descendant Selectors (index.html)
