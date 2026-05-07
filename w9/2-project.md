@@ -43,6 +43,8 @@ Update your `README.md` with `## Week 9 Sub Pages`:
 
 ---
 
+* **W3C Validation:** All your HTML and CSS must pass through the [W3C Validator](https://validator.w3.org/) with zero errors.
+
 
 ## Grading Rubric (100 Points Total)
 
