@@ -48,13 +48,13 @@ Update your `README.md` with `## Week 9 Sub Pages`:
 
 ## Grading Rubric (100 Points Total)
 
-| Criteria | Points |
-| :--- | :--- |
-| **Site Architecture & Consistency** | **30 pts** |
-| *5 pages total; navigation and wrapper systems are consistent across all URLs.* | |
-| **Advanced Grid Implementation** | **30 pts** |
-| *New, unique grid layouts on subpages; fully responsive via nested media queries.* | |
-| **Semantic Media & Figures** | **20 pts** |
-| *Correct use of `<figure>` and `<figcaption>` with custom CSS styling.* | |
-| **UX & Active States** | **20 pts** |
-| *Active navigation states are correct on all pages; 2 distinct Hero styles implemented.* | |
+### **Phase 4 & Final Site Showcase Rubric**
+
+| Criteria | Points | Description |
+| :--- | :--- | :--- |
+| **Site Architecture & Consistency** | **25 pts** | Site contains 5 pages total. The `primary-header` and `.wrapper` systems are identical across all URLs. Navigation links work correctly between all pages. |
+| **Grid Engineering & "The Unlock"** | **25 pts** | Implementation of at least 3 unique grid sections across the site. Desktop view uses 2+ columns, while mobile view remains stacked. All media queries are nested within their parent selectors. |
+| **Semantic Assets & Visual Variety** | **20 pts** | Correct implementation of `<figure>` and `<figcaption>` for at least two images. Use of at least 2 distinct Hero styles (e.g., a "Main Hero" for home and "Compact Hero" for subpages). |
+| **The "Squish Test" & UX** | **15 pts** | The site passes the "Squish Test" with zero horizontal scrolling at 375px. Breakpoints are logically chosen based on content density. Active navigation states correctly indicate the user's current location. |
+| **Documentation & Peer Review** | **15 pts** | Discussion post includes a clear "Logic Audit" (URL, Grid explanation, Breakpoint reasoning). Peer replies provide verified feedback on the responsiveness of a classmate's new subpage. |
+| **TOTAL** | **100 pts** | |
